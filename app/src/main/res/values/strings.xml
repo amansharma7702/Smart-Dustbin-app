@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Smart dustbin</string>
+    <string name="waiting_for_weight">Waiting for weight...</string>
+</resources>
