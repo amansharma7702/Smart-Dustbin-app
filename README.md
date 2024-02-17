@@ -1,4 +1,4 @@
-#Smart-Dustbin-app
+# Smart-Dustbin-app
 Title: Revolutionizing Waste Management: The Smart Dustbin App
 
 In today's world, where technology continues to permeate every aspect of our lives, even waste management is undergoing a digital transformation. Introducing the Smart Dustbin app, a revolutionary solution that leverages the power of ESP32 microcontrollers to create a seamless and efficient waste disposal system.
